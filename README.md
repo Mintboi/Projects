@@ -5,6 +5,8 @@ College projects:
 Java
 Python
 JavaScript
+CSS
+HTML
 
 Self-Taught:
 C# For Unity3D
