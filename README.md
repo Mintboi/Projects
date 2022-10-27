@@ -1,11 +1,11 @@
 # Portfolio
 A repository containing all of my projects to date
 
-College projects:
-Java
-Python
-JavaScript
-CSS
+College Taught:
+Java,
+Python,
+JavaScript,
+CSS,
 HTML
 
 Self-Taught:
